@@ -2,7 +2,7 @@
 
 ### This is just a small landing page prototype driven to showcase art, products or anything really.
 
-## Tecnologies used:
+## Technologies used:
 
 - HTML 5
 - CSS 3
